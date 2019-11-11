@@ -1,8 +1,9 @@
-package main.java.endpoints;
+package endpoints;
 
-import main.java.coders.MessageDecoder;
-import main.java.coders.MessageEncoder;
-import main.java.entities.Message;
+
+import coders.MessageDecoder;
+import coders.MessageEncoder;
+import entities.Message;
 
 import javax.websocket.*;
 import javax.websocket.server.PathParam;

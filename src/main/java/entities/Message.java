@@ -1,4 +1,4 @@
-package main.java.entities;
+package entities;
 
 import lombok.Builder;
 import lombok.Data;

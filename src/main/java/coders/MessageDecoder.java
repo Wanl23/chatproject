@@ -1,7 +1,7 @@
-package main.java.coders;
+package coders;
 
 import com.google.gson.Gson;
-import main.java.entities.Message;
+import sun.plugin2.message.Message;
 
 import javax.websocket.DecodeException;
 import javax.websocket.Decoder;
