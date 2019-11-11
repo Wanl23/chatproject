@@ -1,7 +1,7 @@
 package coders;
 
 import com.google.gson.Gson;
-import sun.plugin2.message.Message;
+import entities.Message;
 
 import javax.websocket.EncodeException;
 import javax.websocket.Encoder;
